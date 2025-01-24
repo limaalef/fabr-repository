@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "coordinates": [-46.77551641677829, -23.529411277327085], "type": "Point" },
+      "geometry": { "type": "Point", "coordinates": [-46.7755, -23.5294] },
       "properties": {
         "scalerank": 8,
         "featurecla": "Airport",

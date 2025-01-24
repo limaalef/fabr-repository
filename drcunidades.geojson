@@ -1,1 +1,18 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Unidade":"Osasco","Horário":"Seg a sáb, 07h às 18h"},"geometry":{"coordinates":[-46.77551641677829,-23.529411277327085],"type":"Point"},"id":0}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Unidade": "Osasco",
+        "Horário": "Seg a sáb, 07h às 18h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77551641677829,
+          -23.529411277327085
+        ]},
+    }
+  ]
+}

@@ -12,6 +12,18 @@
         "horario_domingo": "Não abre",
         "location": "Rua Primitiva Vianco, 145"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-46.7085, -23.5708] },
+      "properties": {
+        "unidade": "Butantã",
+        "sigla": "BUTA",
+        "horario_semana": "08h às 17h",
+        "horario_sabado": "08h às 17h",
+        "horario_domingo": "Não abre",
+        "location": "Av. Vital Brasil, 466"
+      }
     }
   ]
 }

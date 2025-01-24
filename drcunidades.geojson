@@ -5,19 +5,12 @@
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-46.7755, -23.5294] },
       "properties": {
-        "scalerank": 8,
-        "featurecla": "Airport",
-        "type": "mid",
-        "name": "Rostov S.W.",
-        "abbrev": null,
-        "location": "runway",
-        "gps_code": null,
-        "iata_code": null,
-        "wikipedia": null,
-        "natlscale": 10,
-        "cartodb_id": 239,
-        "created_at": "2014-10-19T00:00:00Z",
-        "updated_at": "2014-10-19T00:00:00Z"
+        "unidade": "Osasco",
+        "sigla": "OSAS",
+        "horario_semana": "08h às 17h",
+        "horario_sabado": "08h às 17h",
+        "horario_domingo": "Não abre",
+        "location": "Rua Primitiva Vianco, 145"
       }
     }
   ]
